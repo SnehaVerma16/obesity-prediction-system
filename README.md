@@ -6,12 +6,12 @@ The **Obesity Level Estimation System** is a machine learning application design
 ⚠️ **Important Note:** This repository is specifically structured and configured for **Render Deployment/Hosting**. 
 
 If you are looking for the complete machine learning workflow—including data exploration, feature selection, outlier removal, model training, and the raw dataset—please visit the Google Colab Notebook linked below:
-👉 **[Full Source Code & Dataset (Google Colab)](YOUR_COLAB_LINK_HERE)**
+👉 **[Full Source Code & Dataset (Google Colab)](https://colab.research.google.com/drive/1OQfOL2JCIJfeT8zpTozdPVV1TB0bttAb?usp=sharing)**
 
 ## 👨‍💻 Developer
 **Chandan Saroj**
-* **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
-* **GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chandan-saroj/)
+* **Gimme a GitHub Follow:** [Gimme a GitHub Follow](https://github.com/chandanXP)
 
 ## 🛠️ Tools & Technologies Used
 * **Machine Learning:** Scikit-learn (KNeighborsClassifier)
@@ -49,4 +49,4 @@ Boom! 💥 Render will build your environment and give you a live URL. Your mach
 
 ## 🌐 Live Demo
 Check out the live, working version of this project hosted on Render:
-👉 **[Obesity Level Estimation System - Live App](YOUR_RENDER_LIVE_LINK_HERE)**
+👉 **[Obesity Level Estimation System - Live App](https://obesity-prediction-system.onrender.com)**
