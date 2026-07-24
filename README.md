@@ -10,7 +10,7 @@ If you are looking for the complete machine learning workflow—including data e
 
 ## 👨‍💻 Developer
 **Chandan Saroj**
-* LinkedIn:httos://linkedin.com/in/sneha-verma-071b04322
+* LinkedIn:https://linkedin.com/in/sneha-verma-071b04322
 * Gimme a GitHub Follow:https://github.com/SnehaVerma16/
 
 ## 🛠️ Tools & Technologies Used
