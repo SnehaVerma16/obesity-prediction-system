@@ -145,9 +145,9 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="blue", neutral_hue="slate")) as
     gr.Markdown("""
     ---
     ### 👨‍💻 About the Developer
-    **Created by:** Chandan Saroj (MERN Stack Developer & SDE)
-    * **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
-    * **GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
+    **Created by:** Sneha Verma (Btech Cse Core[28240091])
+    * **LinkedIn:** https://linkedin.com/in/sneha-verma-071b04322/
+    * **GitHub:** https://github.com/SnehaVerma16/
     """)
 
     # Wire up the logic
