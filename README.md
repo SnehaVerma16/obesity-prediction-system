@@ -10,8 +10,8 @@ If you are looking for the complete machine learning workflow—including data e
 
 ## 👨‍💻 Developer
 **Chandan Saroj**
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chandan-saroj/)
-* **Gimme a GitHub Follow:** [Gimme a GitHub Follow](https://github.com/chandanXP)
+* **LinkedIn:**linkedin.com/in/sneha-verma-071b04322
+* **Gimme a GitHub Follow:**https://github.com/SnehaVerma16/
 
 ## 🛠️ Tools & Technologies Used
 * **Machine Learning:** Scikit-learn (KNeighborsClassifier)
